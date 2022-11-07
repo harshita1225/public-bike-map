@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/public-bike-map/static/css/main.bc732efb.css",
+    "main.js": "/public-bike-map/static/js/main.1b9dcac2.js",
+    "index.html": "/public-bike-map/index.html",
+    "main.bc732efb.css.map": "/public-bike-map/static/css/main.bc732efb.css.map",
+    "main.1b9dcac2.js.map": "/public-bike-map/static/js/main.1b9dcac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc732efb.css",
+    "static/js/main.1b9dcac2.js"
+  ]
+}
